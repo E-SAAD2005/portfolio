@@ -18,7 +18,7 @@ const projects = [
     image: "pageWeather.jpeg",
     tags: ["react", "tailwind",],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://weather-app-rho-fawn-80.vercel.app/",
   },
 
 ];
