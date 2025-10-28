@@ -18,9 +18,8 @@ const projects = [
     image: "pageWeather.jpeg",
     tags: ["react", "tailwind",],
     demoUrl: "https://weather-app-pvtu.vercel.app/",
-    githubUrl: "https://github.com/E-SAAD2005/weather-app
-      ",
-  },
+    githubUrl: "https://github.com/E-SAAD2005/weather-app",
+},
 
 ];
 
