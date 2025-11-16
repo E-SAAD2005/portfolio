@@ -17,16 +17,9 @@ const projects = [
       "A beautiful weather-app using react tailwind .",
     image: "pageWeather.jpeg",
     tags: ["react", "tailwind",],
-<<<<<<< HEAD
-    demoUrl: "#",
-    githubUrl: "https://weather-app-rho-fawn-80.vercel.app/",
-  },
-=======
     demoUrl: "https://weather-app-pvtu.vercel.app/",
     githubUrl: "https://github.com/E-SAAD2005/weather-app",
 },
->>>>>>> 86e1ed329ce44598d0df09a99e6c7a006fc08ea4
-
 ];
 
  const ProjectsSection = () => {
