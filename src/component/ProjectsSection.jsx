@@ -5,10 +5,10 @@ const projects = [
     id: 1,
     title: "Site web de vendre les voiture",
     description: "A beautiful Site web  using html css js php mysql .",
-    image: "pageVoiture.jpeg",
-    tags: ["php", "js", "html/css","mysql"],
-    demoUrl: "#",
-    githubUrl: "#",
+    image: "cryptoapp.jpeg",
+    tags: [ "react","tailwind"],
+    demoUrl: "https://crypto-app-two-lovat.vercel.app/",
+    githubUrl: "https://github.com/E-SAAD2005/Crypto-App",
   },
   {
     id: 2,
@@ -20,6 +20,7 @@ const projects = [
     demoUrl: "https://weather-app-pvtu.vercel.app/",
     githubUrl: "https://github.com/E-SAAD2005/weather-app",
 },
+
 
 ];
 
