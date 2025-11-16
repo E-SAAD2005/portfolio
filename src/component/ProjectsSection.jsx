@@ -17,7 +17,7 @@ const projects = [
       "A beautiful weather-app using react tailwind .",
     image: "pageWeather.jpeg",
     tags: ["react", "tailwind",],
-    demoUrl: "https://weather-app-pvtu.vercel.app/",
+    demoUrl: "https://weather-app-theta-eight-h86yb1sg3p.vercel.app/",
     githubUrl: "https://github.com/E-SAAD2005/weather-app",
 },
 ];
