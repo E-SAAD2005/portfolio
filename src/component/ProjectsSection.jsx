@@ -17,9 +17,15 @@ const projects = [
       "A beautiful weather-app using react tailwind .",
     image: "pageWeather.jpeg",
     tags: ["react", "tailwind",],
+<<<<<<< HEAD
     demoUrl: "#",
     githubUrl: "https://weather-app-rho-fawn-80.vercel.app/",
   },
+=======
+    demoUrl: "https://weather-app-pvtu.vercel.app/",
+    githubUrl: "https://github.com/E-SAAD2005/weather-app",
+},
+>>>>>>> 86e1ed329ce44598d0df09a99e6c7a006fc08ea4
 
 ];
 
@@ -91,7 +97,7 @@ const projects = [
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/machadop1407"
+            href="https://github.com/E-SAAD2005"
           >
             Check My Github <ArrowRight size={16} />
           </a>
