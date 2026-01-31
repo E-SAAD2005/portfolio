@@ -19,12 +19,7 @@ const projects = [
     tags: ["react", "tailwind",],
     demoUrl: "https://weather-app-theta-eight-h86yb1sg3p.vercel.app/",
     githubUrl: "https://github.com/E-SAAD2005/weather-app",
-},
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 7c7c1e48da42c659c50b040a0075390b994841e2
+},  
 ];
 
  const ProjectsSection = () => {
